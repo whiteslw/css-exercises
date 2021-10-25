@@ -1,0 +1,18 @@
+/* style.css */
+
+.oneclick {
+
+    background-color: black;
+    color: #ffffff;
+}
+
+.twoclick {
+
+    background-color: rgb(250, 234, 57);
+}
+
+.oneclick, .twoclick {
+
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}

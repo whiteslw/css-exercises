@@ -1,0 +1,31 @@
+/* style.css */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.odd {
+
+    background-color: #ff8f8f;
+    font-family: Verdana, sans-serif;
+
+}
+
+#two {
+
+    color: #2317ff;
+    font-size: 36px;
+}
+
+.odd.three {
+
+    font-size: 24px;
+}
+
+#four {
+
+    background-color: #4aed70;
+    font-size: 24px;
+    font-weight: bold;
+}
